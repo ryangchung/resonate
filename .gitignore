@@ -34,3 +34,17 @@ coverage.out
 dst*.html
 redoc-static.html
 api/index.html
+
+# Devenv
+.devenv*
+devenv.local.nix
+devenv.local.yaml
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
+
+# gocache
+.gocache
